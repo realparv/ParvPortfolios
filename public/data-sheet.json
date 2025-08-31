@@ -1,0 +1,8 @@
+{
+  "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+  "series": [
+    { "name": "Revenue", "data": [12, 19, 14, 23, 28, 34, 30, 26, 22, 25, 29, 35] },
+    { "name": "Expenses", "data": [8, 9, 10, 12, 15, 16, 18, 17, 14, 15, 16, 18] },
+    { "name": "Profit", "data": [4, 10, 4, 11, 13, 18, 12, 9, 8, 10, 13, 17] }
+  ]
+}
