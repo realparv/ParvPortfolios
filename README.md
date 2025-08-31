@@ -96,6 +96,9 @@ Open the dev URL printed in your terminal (typically http://localhost:5173).
 
 ## Notes
 
+## Video Demo
+
+
 - Keep dependencies minimal and stick to functional components and hooks.
 - The table maintains correct edits even when sorted by tracking the original row index.
 
