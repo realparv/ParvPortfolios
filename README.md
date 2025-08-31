@@ -98,9 +98,7 @@ Open the dev URL printed in your terminal (typically http://localhost:5173).
 
 ## Video Demo
 
-
-- Keep dependencies minimal and stick to functional components and hooks.
-- The table maintains correct edits even when sorted by tracking the original row index.
+-DEMO VIDEO OF THE PROJECT IS ADDED IN THE SOURCE FOLDER DIRECTION ARE ; VideoDemo/Qode_frontend_2025-08-31 201121.mp4
 
 ## License
 
